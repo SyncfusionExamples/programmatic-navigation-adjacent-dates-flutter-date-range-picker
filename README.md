@@ -1,2 +1,1 @@
-# programmatic-navigation-adjacent-dates-flutter-date-range-picker
-How to programmatically navigate to the adjacent dates in the Flutter date range picker (SfDateRangePicker)? 
+**[View document in Syncfusion Flutter Knowledge base](https://www.syncfusion.com/kb/12137/how-to-programmatically-navigate-to-the-adjacent-dates-in-the-flutter-date-range-picker)**
